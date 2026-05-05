@@ -7,7 +7,7 @@
     <samp>
       <br> languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>, <a href="https://www.typescriptlang.org/">typescript</a>
       <br>
-      <br> discord: <a href="https://discord.com/users/406591789127172097">dontmissgirlempty</a>
+      <br> discord: <a href="https://discord.com/users/406591789127172097">plituunciton</a>
       <br>
       <br> support me by leaving a ⭐ on my repositories
     </samp>
@@ -18,5 +18,5 @@
   <br>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pluckerpilple&show_icons=true&locale=en&theme=highcontrast&border_radius=15&hide_border=true&title_color=d1d1d1" alt="vichlunsie" width="340" />
-</div>
+   <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast" />
+   <br>
